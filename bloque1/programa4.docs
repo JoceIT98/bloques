@@ -1,0 +1,6 @@
+print("Cuántos días tiene la semana?"):
+La función print() se utiliza para mostrar el mensaje "Cuántos días tiene la semana?" en la consola.
+print(7):
+La segunda instrucción print(7) imprime el número 7, que es la respuesta a la pregunta planteada en la línea anterior.
+
+esto sucede lo mismo al pedir los lados de un triangulo y las equivalencias de cm a metros
