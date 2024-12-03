@@ -1,4 +1,6 @@
-La función print() se usa para imprimir el mensaje en la consola.
-La cadena "Hola " se concatena con el valor almacenado en la variable nombre (el nombre ingresado por el usuario).
-Luego, se agrega el texto ", Qué bonito es tu nombre".
-El resultado es un saludo personalizado que incluye el nombre del usuario.
+print("Cuántos días tiene la semana?"):
+La función print() se utiliza para mostrar el mensaje "Cuántos días tiene la semana?" en la consola.
+print(7):
+La segunda instrucción print(7) imprime el número 7, que es la respuesta a la pregunta planteada en la línea anterior.
+
+esto sucede lo mismo al pedir los lados de un triangulo y las equivalencias de cm a metros
