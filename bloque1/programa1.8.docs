@@ -1,0 +1,26 @@
+Entrada de datos:
+
+radio = float(input("Introduce el valor del radio del círculo:")): Solicita al usuario ingresar el valor del radio del círculo. Este valor es convertido a un número decimal (float).
+Cálculo del perímetro:
+
+perimetro = 2 * 3.1416 * radio: Calcula el perímetro (o circunferencia) de un círculo utilizando la fórmula 
+𝑃
+=
+2
+𝜋
+𝑟
+P=2πr, donde 
+𝑟
+r es el radio del círculo y 
+𝜋
+π se aproxima a 3.1416.
+Cálculo del área:
+
+area = 3.1416 * radio ** 2: Calcula el área del círculo utilizando la fórmula 
+𝐴
+=
+𝜋
+𝑟
+2
+A=πr 
+2
