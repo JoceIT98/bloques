@@ -1,0 +1,9 @@
+Asignación inicial:
+
+num = 38: Se asigna el valor 38 a la variable num.
+Incremento:
+
+num = num + 1: Se incrementa el valor de num en 1. El valor de num pasa de 38 a 39.
+Impresión:
+
+print(str(num)): Se convierte el valor de num (que ahora es 39) a cadena de texto con str() y se imprime en la consola.
