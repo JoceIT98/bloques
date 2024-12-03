@@ -1,0 +1,32 @@
+Entrada de edad y compra:
+
+edad = int(input("¿Cuántos años tienes?"))
+compra = int(input("¿Compraste la película?\n0-NO\n1-SI\n"))
+Se le solicita al usuario que ingrese su edad y si compró la película. La edad se convierte en un entero (int), y la compra se maneja con opciones 0 (no compró) o 1 (sí compró).
+Condición if anidada:
+
+
+if edad >= 18:
+    if compra == 1:
+        print("Puede ver la película")
+else:
+    print("Vete a hacer la tarea !Mocoso¡")
+Si la edad es mayor o igual a 18 años, se verifica si el usuario compró la película (compra == 1). Si ambos son verdaderos, se imprime "Puede ver la película".
+Si la edad es menor de 18, se imprime un mensaje diciendo "Vete a hacer la tarea !Mocoso¡".
+Mensaje final:
+
+
+print("!Gracias por usar Netflix¡")
+Al final, siempre se imprime un mensaje de agradecimiento.
+Ejemplo de ejecución:
+Si el usuario tiene 20 años y compró la película, se imprimirá:
+
+
+Puede ver la película
+!Gracias por usar Netflix¡
+Si el usuario tiene 15 años y no compró la película, se imprimirá:
+
+
+Vete a hacer la tarea !Mocoso¡
+!Gracias por usar Netflix¡
+
