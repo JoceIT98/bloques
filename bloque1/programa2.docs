@@ -3,3 +3,7 @@ input("Ingresa tu nombre:"):
 La función input() muestra un mensaje en la consola ("Ingresa tu nombre:") y espera que el usuario ingrese un valor.
 Este valor ingresado se guarda como una cadena de texto en la variable nombre.
 print("Hola " + nombre + ", Qué bonito es tu nombre"):
+La función print() se usa para imprimir el mensaje en la consola.
+La cadena "Hola " se concatena con el valor almacenado en la variable nombre (el nombre ingresado por el usuario).
+Luego, se agrega el texto ", Qué bonito es tu nombre".
+El resultado es un saludo personalizado que incluye el nombre del usuario.
