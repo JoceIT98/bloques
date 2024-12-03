@@ -1,0 +1,30 @@
+Entrada de las calificaciones:
+num1 = float(input("ingresa tu primer calificación:"))
+num2 = float(input("ingresa tu segunda calificación:"))
+num3 = float(input("ingresa tu tercera calificación:"))
+num4 = float(input("ingresa tu cuarta calificacion:"))
+num5 = float(input("ingresa tu quinta calificacion:"))
+num6 = float(input("ingresa tu sexta calificacion:"))
+
+Se le solicita al usuario ingresar seis calificaciones. Cada calificación se convierte a tipo float para permitir decimales.
+Cálculo del promedio:
+
+calificaciones = (num1 + num2 + num3 + num4 + num5 + num6) / 6
+El promedio de las seis calificaciones se calcula sumando las calificaciones y dividiendo entre 6 (el número de calificaciones).
+Condición para verificar si aprobó o no:
+
+
+if calificaciones >= 70:
+    print("Aprobaste tus materias... !FELICIDADES¡")
+else:
+    print("Desaprobaste tus materias... Vuelve a intentarlo !si se puede¡")
+Si el promedio es 70 o mayor, el mensaje será "Aprobaste tus materias... !FELICIDADES¡".
+Si el promedio es menor que 70, el mensaje será "Desaprobaste tus materias... Vuelve a intentarlo !si se puede¡".
+Ejemplo de ejecución:
+Si el usuario ingresa las calificaciones 80, 75, 90, 85, 70, 95, el promedio es 82.5, por lo que el programa imprimirá:
+
+
+Aprobaste tus materias... !FELICIDADES¡
+Si el usuario ingresa las calificaciones 50, 60, 55, 40, 65, 70, el promedio es 55.83, por lo que el programa imprimirá:
+
+Desaprobaste tus materias... Vuelve a intentarlo !si se puede¡
