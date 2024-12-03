@@ -1,0 +1,13 @@
+Entradas de usuario:
+
+num1 = int(input("Ingresa el primer valor:")): Solicita al usuario ingresar un número entero y lo almacena en num1.
+num2 = int(input("Ingresa el segundo número:")): Solicita al usuario ingresar otro número entero y lo almacena en num2.
+Operaciones:
+
+Suma: suma = num1 + num2 calcula la suma de los dos números.
+Resta: resta = num1 - num2 calcula la resta correcta (se corrigió el error en el código original, que sumaba en vez de restar).
+Multiplicación: multiplicacion = num1 * num2 calcula el producto de los dos números.
+División: division = num1 / num2 calcula la división de num1 entre num2.
+Impresión de resultados:
+
+Los resultados de cada operación se convierten a cadenas (str()) y se imprimen con mensajes explicativos.
