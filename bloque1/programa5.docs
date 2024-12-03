@@ -1,21 +1,13 @@
-# JOCELYN DE LUNA
-print("Multiplicación (10 * 2")
-print(10 * 2)
+Entradas de usuario:
 
-print("Concatenando cadenas" + " esta bien")
-Explicación:
-Suma de 6 + 4:
+num1 = int(input("Ingresa el primer valor:")): Solicita al usuario ingresar un número entero y lo almacena en num1.
+num2 = int(input("Ingresa el segundo número:")): Solicita al usuario ingresar otro número entero y lo almacena en num2.
+Operaciones:
 
-La primera instrucción print("Suma de 6 + 4") muestra el mensaje en la consola.
-La segunda instrucción print(6 + 4) realiza la operación de suma y muestra el resultado (10).
-Resta 12 - 5:
+Suma: suma = num1 + num2 calcula la suma de los dos números.
+Resta: resta = num1 - num2 calcula la resta correcta (se corrigió el error en el código original, que sumaba en vez de restar).
+Multiplicación: multiplicacion = num1 * num2 calcula el producto de los dos números.
+División: division = num1 / num2 calcula la división de num1 entre num2.
+Impresión de resultados:
 
-La instrucción print("Resta 12 - 5") muestra el mensaje de la resta.
-print(12 - 5) realiza la operación de resta y muestra el resultado (7).
-Multiplicación 10 * 2:
-
-La instrucción print("Multiplicación 10 * 2") muestra el mensaje de la multiplicación.
-print(10 * 2) realiza la operación de multiplicación y muestra el resultado (20).
-Concatenando cadenas:
-
-La instrucción print("Concatenando cadenas" + " esta bien") concatena las dos cadenas de texto ("Concatenando cadenas" y " esta bien") y muestra el mensaje completo en la consola: "Concatenando cadenas esta bien".
+Los resultados de cada operación se convierten a cadenas (str()) y se imprimen con mensajes explicativos.
