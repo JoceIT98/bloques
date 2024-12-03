@@ -1,0 +1,40 @@
+Este código utiliza operadores de comparación y de membresía, así como el método de slicing o rebanado en Python.
+
+1. Operadores de Comparación
+Los operadores de comparación se usan para comparar valores, y devuelven un valor booleano (True o False).
+
+
+print("perro" == "perro")  # Compara si las dos cadenas son iguales
+==: Compara si dos cadenas son iguales. En este caso, "perro" es igual a "perro", por lo que devuelve True.
+
+print("perro" != "gato")  # Compara si las dos cadenas son diferentes
+!=: Compara si las dos cadenas son diferentes. "perro" no es igual a "gato", por lo que devuelve True.
+
+print("Aguascalientes" < "Zacatecas")  # Compara las cadenas lexicográficamente (orden alfabético)
+<: Compara las cadenas lexicográficamente. Python compara las cadenas carácter por carácter según el orden alfabético. Como "Aguascalientes" precede a "Zacatecas" en el orden alfabético, devuelve True.
+
+print("Aire" >= "Agua")  # Compara si "Aire" es mayor o igual que "Agua" lexicográficamente
+>=: Compara las cadenas en orden lexicográfico. Como "Aire" no es mayor que "Agua" según el orden de las letras, devuelve False.
+2. Operadores de Membresía
+Los operadores de membresía verifican si un valor es parte de una secuencia (como una lista o una cadena).
+
+
+print("house" in "Boathouse")  # Verifica si "house" está contenido en "Boathouse"
+in: Verifica si una subcadena está presente en una cadena. "house" está en "Boathouse", por lo que devuelve True.
+
+print("bien" in "Bien venidos")  # Verifica si "bien" está contenido en "Bien venidos"
+in: Python distingue mayúsculas de minúsculas, por lo que "bien" no está en "Bien venidos", devuelve False.
+
+print("y" not in "ejes")  # Verifica si "y" no está en "ejes"
+not in: Verifica si una subcadena no está presente. "y" no está en "ejes", por lo que devuelve True.
+
+print("je" not in "ejes")  # Verifica si "je" no está en "ejes"
+not in: "je" sí está presente en "ejes", por lo que devuelve False.
+3. Método de Slicing (Rebanado)
+El slicing permite acceder a una parte específica de una cadena o lista.
+mi_nombre = "choto chorchis"
+print(mi_nombre[3])  # Accede al cuarto carácter (índice 3)
+El índice 3 de "choto chorchis" corresponde a la letra 't', por lo que se imprime t.
+
+print(mi_nombre[12])  # Accede al carácter en el índice 12
+El índice 12 de "choto chorchis" corresponde a la letra 's', por lo que se imprime s.
