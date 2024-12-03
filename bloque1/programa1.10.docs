@@ -1,9 +1,14 @@
-Asignación inicial:
+print():
 
-num = 38: Se asigna el valor 38 a la variable num.
-Incremento:
+La función print() se usa para imprimir un mensaje en la consola.
+Secuencia de escape \t:
 
-num = num + 1: Se incrementa el valor de num en 1. El valor de num pasa de 38 a 39.
+El \t es un tabulador. Inserta un espacio en blanco grande (tabulación) entre los elementos impresos, para alinear las palabras o caracteres.
+Caracteres Unicode:
+
+\u263A: Representa el símbolo de la cara sonriente ☺ en Unicode.
+\u265D: Representa el símbolo de la torre de ajedrez (reina) ♝ en Unicode.
 Impresión:
 
-print(str(num)): Se convierte el valor de num (que ahora es 39) a cadena de texto con str() y se imprime en la consola.
+En la primera línea, imprime "Estoy feliz", seguido de un tabulador, luego el símbolo ☺, más un tabulador y el símbolo ♝.
+En la segunda línea, imprime "Alineado", seguido del mismo formato.
