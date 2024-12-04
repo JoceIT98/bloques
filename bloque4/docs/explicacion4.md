@@ -8,10 +8,12 @@ Imprime un saludo personalizado con el nombre proporcionado.
 ```
     print(f'\n¡Hola, {nombre}¡')
 ```
+
 Imprime una pregunta sobre cómo se encuentra la persona.
 ``` 
     print(f'¿Cómo estás?')
-    ```
+```
+
 # Expresa un deseo de bienestar para la persona.
 ```
     print('¡Espero que te encuentres bien!\n')  
@@ -28,7 +30,7 @@ El primero usa un f-string para saludar al nombre proporcionado: ¡Hola, {nombre
 El segundo mensaje pregunta: ¿Cómo estás?.
 El tercer mensaje expresa buenos deseos: ¡Espero que te encuentres bien!.
 Llamadas a la función:
-```
+``````
 saludar('Edinguer'): Imprime el saludo personalizado para "Edinguer".
 saludar('Chuyito'): Imprime el saludo personalizado para "Chuyito".
 saludar('terricola'): Imprime el saludo personalizado para "terricola".
