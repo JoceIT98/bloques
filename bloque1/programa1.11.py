@@ -1,6 +1,6 @@
 #Programa.11  Analizar los operadores de comparaciÓn
-#Fecha de elaboraciÓn: 20210/10/18
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+#Fecha de elaboraciÓn: 18/10/24
+#Elaborado por: JOCELYN DE LUNA
 
 #operadores de comparacion == , !=, >=, <=, >, <
 
