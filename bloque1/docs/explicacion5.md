@@ -1,4 +1,4 @@
-# Descripcion del programa 5 del bloque 1
+# Descripción del programa 5 del bloque 1
 
 ## Funcionamiento del programa
  Entrada de datos
