@@ -1,4 +1,4 @@
-## Código explicado: Programa 1}
+## Código explicado: Programa 7
 ## Definición de la función operaciones(num1, num2, digitos):
 
 Parámetros:
