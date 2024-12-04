@@ -1,4 +1,4 @@
-## Descrpcion del programa 6 del bloque1
+## Descripción del programa 6 del bloque1
  El programa está diseñado para calcular el área de un triángulo utilizando la fórmula matemática básica:
 
 Solicitar datos al usuario.
