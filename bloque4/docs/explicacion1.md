@@ -3,27 +3,27 @@
 
 
 lista_num = [10, 30, 40, 20, 35, 80]
-# Imprime el primer elemento (10)
+Imprime el primer elemento (10)
 ```
 print(lista_num[0])
 ```
-# Imprime el segundo elemento (30)
+Imprime el segundo elemento (30)
 ```
 print(lista_num[1])
 ```
-# Imprime el tercer elemento (40)
+Imprime el tercer elemento (40)
 ```
 print(lista_num[2])
 ```
-# Imprime el cuarto elemento (20)
+Imprime el cuarto elemento (20)
 ```
 print(lista_num[3]) 
 ```
-# Imprime el quinto elemento (35)
+Imprime el quinto elemento (35)
 ```
 print(lista_num[4])
 ```
-# Imprime el sexto elemento (80)
+Imprime el sexto elemento (80)
 ```
 print(lista_num[5])
 ```
