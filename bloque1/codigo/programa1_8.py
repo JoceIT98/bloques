@@ -1,3 +1,6 @@
+# Programa 1.8 Calcular horas, minutos, meses.
+# fecha: 15/10/2024
+# nombre: JOCELYN DE LUNA
 Entrada de datos:
 
 dias = float(input("Ingresa el número de días:")): Solicita al usuario ingresar un número de días, que se convierte a un valor de tipo float para permitir entradas decimales.
