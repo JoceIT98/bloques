@@ -32,9 +32,8 @@ Definición de la función operaciones(num1, num2, digitos):
 Parámetros:
 num1: Primer número (entero).
 num2: Segundo número (entero).
-
 digitos: Número de decimales a mostrar en la división y el módulo (entero).
-
+```
 
 La función realiza las siguientes operaciones matemáticas:
 ```
