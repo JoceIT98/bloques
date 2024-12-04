@@ -1,4 +1,0 @@
-El operador not en Python invierte el valor booleano de una expresión. Si la expresión es True, la negación not True devuelve False. Si la expresión es False, la negación not False devuelve True. Aquí, el código demuestra cómo funciona:
-
-not True imprime False, ya que invierte el valor de True.
-not False imprime True, ya que invierte el valor de False.
