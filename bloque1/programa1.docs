@@ -1,4 +1,0 @@
-print(): Es una función integrada en Python que se utiliza para mostrar un mensaje o valor en la consola.
-El mensaje dentro de los paréntesis ("Hola, mi nombre es JOCELYN DE LUNA") es una cadena de texto que se imprimirá tal cual en la salida.
-
-Cuando se ejecute el codigo en la consola la salida sera Hola, mi nombre es JOCELYN DE LUNA
