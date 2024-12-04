@@ -14,7 +14,7 @@ Imprime una pregunta sobre cómo se encuentra la persona.
     print(f'¿Cómo estás?')
 ```
 
-# Expresa un deseo de bienestar para la persona.
+Expresa un deseo de bienestar para la persona.
 ```
     print('¡Espero que te encuentres bien!\n')  
 ```
