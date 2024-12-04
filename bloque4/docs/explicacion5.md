@@ -19,10 +19,18 @@ Definición de la función saludar(nombre, edad):
 La función recibe dos parámetros:
 nombre: Un string que representa el nombre de la persona.
 edad: Un número (entero o flotante) que representa la edad de la persona.
-< br >Dentro de la función, se imprimen tres mensajes:    < br / >
-< br >El primer mensaje utiliza un f-string para saludar a la persona con su nombre: ¡Hola, {nombre}¡.< br / >
-< br >El segundo mensaje imprime la edad de la persona: Tienes {edad} años..< br / >
-< br >El tercer mensaje expresa un deseo de bienestar: ¡Espero que te encuentres bien!.< br / >
+Dentro de la función, se imprimen tres mensajes:    
+
+
+El primer mensaje utiliza un f-string para saludar a la persona con su nombre: ¡Hola, {nombre}¡.
+
+
+El segundo mensaje imprime la edad de la persona: Tienes {edad} años..
+
+
+El tercer mensaje expresa un deseo de bienestar: ¡Espero que te encuentres bien!.
+
+
 Llamadas a la función:
 ``````
 saludar('Edinguer', edad=26): Imprime un saludo personalizado con el nombre "Edinguer" y la edad "26".
