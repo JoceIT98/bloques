@@ -25,7 +25,7 @@ def es_primo(numero):
     return True 
 
 ```
-Entrada del Usuario:
+# Entrada del Usuario:
 
 Se solicita al usuario ingresar un número entero entre 10 y 99. El número ingresado se almacena en la variable numero_usuario.
 
